@@ -1,7 +1,7 @@
 ## Index
-1.[Basic Command](#Basic-Commands)
-2.[Copy Command](#Copy-command)
-3.[Move Command](#Move-Command)
+1. [Basic Command](#Basic-Commands)
+2. [Copy Command](#Copy-command)
+3. [Move Command](#Move-Command)
 
 ## Basic Commands
 
