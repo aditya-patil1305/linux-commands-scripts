@@ -28,4 +28,6 @@
 
 `cp -rp *.txt dest_dir` : copies files with extension .txt from current directory to dest_dir (.txt can also be replaced by something like /folder/subfolder/\*.txt)
 
+`cp -rp --parents /dir/structure/file.txt /destination/folder` : copy file from given source to destination folder. folder structure of source is also copied.
+
 ## Move Command
